@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/diandra/Desktop/geohub
- * @version 1521507624001
+ * @version 1521507917905
  */
-const patternManifest_1521507624001 = {
+const patternManifest_1521507917904 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -846,5 +846,5 @@ const patternManifest_1521507624001 = {
   }
 };
 
-patternBotIncludes(patternManifest_1521507624001);
+patternBotIncludes(patternManifest_1521507917904);
 }());
